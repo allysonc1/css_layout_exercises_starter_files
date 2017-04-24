@@ -1,0 +1,50 @@
+main {
+  font-size:0;
+}
+
+.container-one {
+  margin-right:right;
+  margin-left:right;
+  margin-top: 30px;
+  width: 800px;
+  display: inline-block;
+}
+
+.box {
+  border:1px black solid;
+  display:inline-block;
+}
+
+.center {
+  text-align:center;
+}
+
+.one_half {
+  width:49.5%;
+  height:200px;
+}
+
+.one_third {
+  width:32.9%;
+  height:300px;
+}
+
+.inner-one { 
+  background-color: green;
+}
+
+.inner-two {
+  background-color: blue;
+}
+
+.inner-three {
+  background-color: grey;
+}
+
+.inner-four {
+  background-color: black;
+}
+
+.inner-five {
+  background-color: orange;
+}
